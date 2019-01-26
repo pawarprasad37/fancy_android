@@ -1,4 +1,4 @@
-package com.example.android.android_me.ui;
+package com.theandroiddeveloper.android_me.ui;
 
 
 import android.os.Bundle;
@@ -9,8 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.android.android_me.R;
-import com.example.android.android_me.data.AndroidImageAssets;
+import com.theandroiddeveloper.android_me.R;
+import com.theandroiddeveloper.android_me.data.AndroidImageAssets;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.android.android_me.ui;
+package com.theandroiddeveloper.android_me.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,9 +8,9 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.example.android.android_me.Constant;
-import com.example.android.android_me.R;
-import com.example.android.android_me.data.AndroidImageAssets;
+import com.theandroiddeveloper.android_me.Constant;
+import com.theandroiddeveloper.android_me.R;
+import com.theandroiddeveloper.android_me.data.AndroidImageAssets;
 
 public class MainActivity extends AppCompatActivity implements
         MasterListFragment.OnImageClickListener {

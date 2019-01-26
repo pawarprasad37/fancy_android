@@ -14,9 +14,9 @@
 * limitations under the License.
 */
 
-package com.example.android.android_me.data;
+package com.theandroiddeveloper.android_me.data;
 
-import com.example.android.android_me.R;
+import com.theandroiddeveloper.android_me.R;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/gridFragment"
-        android:name="com.example.android.android_me.ui.MasterListFragment"
+        android:name="com.theandroiddeveloper.android_me.ui.MasterListFragment"
         android:layout_width="300dp"
         android:layout_height="match_parent" />
 

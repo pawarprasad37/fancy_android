@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.example.android.android_me.ui;
+package com.theandroiddeveloper.android_me.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.FrameLayout;
 
-import com.example.android.android_me.Constant;
-import com.example.android.android_me.R;
-import com.example.android.android_me.data.AndroidImageAssets;
+import com.theandroiddeveloper.android_me.Constant;
+import com.theandroiddeveloper.android_me.R;
+import com.theandroiddeveloper.android_me.data.AndroidImageAssets;
 
 // This activity will display a custom Android image composed of three body parts: head, body, and legs
 public class AndroidMeActivity extends AppCompatActivity {

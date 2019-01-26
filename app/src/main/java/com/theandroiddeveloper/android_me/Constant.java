@@ -1,4 +1,4 @@
-package com.example.android.android_me;
+package com.theandroiddeveloper.android_me;
 
 public class Constant {
     public interface IntentExtra {

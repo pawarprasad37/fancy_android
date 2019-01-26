@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.example.android.android_me.ui;
+package com.theandroiddeveloper.android_me.ui;
 
 import android.content.Context;
 import android.view.View;

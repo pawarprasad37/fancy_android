@@ -1,4 +1,4 @@
-package com.example.android.android_me.ui;
+package com.theandroiddeveloper.android_me.ui;
 
 
 import android.content.Context;
@@ -10,8 +10,8 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
-import com.example.android.android_me.R;
-import com.example.android.android_me.data.AndroidImageAssets;
+import com.theandroiddeveloper.android_me.R;
+import com.theandroiddeveloper.android_me.data.AndroidImageAssets;
 
 /**
  * A simple {@link Fragment} subclass.
